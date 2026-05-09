@@ -17,7 +17,7 @@
 
 Currently expanding deeper into machine learning, predictive modeling, and advanced analytics
 
-## 📊 GitHub Stats
+## 📉 GitHub Stats
 
 ![GitHub Profile Stats](https://github-readme-stats.vercel.app/api?username=databykaka&show_icons=true&theme=tokyonight)
 
