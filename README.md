@@ -9,11 +9,11 @@
 🧑‍🎓 My interests include `Machine Learning`, `Deep Learning`, `Artificial Intelligence`, and `Natural Language Processing.`
 
 🗂️ I’ve worked on projects involving:
-    - Customer Complaint Analysis (14M+ rows)
-    - Trial Activation Analysis
-    - Revenue & Credit Card Analytics
-    - Customer Behavior Analysis
-    - Dashboard Development & KPI Tracking
+   - Customer Complaint Analysis (14M+ rows)
+   - Trial Activation Analysis
+   - Revenue & Credit Card Analytics
+   - Customer Behavior Analysis
+   - Dashboard Development & KPI Tracking
 
 Currently expanding deeper into machine learning, predictive modeling, and advanced analytics
 
