@@ -23,6 +23,6 @@ Currently expanding deeper into machine learning, predictive modeling, and advan
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=databykaka&layout=compact&theme=tokyonight)
 
-🌍 Connect With Me
+## 🌍 Connect With Me
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:enwelumchiamaka@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/your-profile)
